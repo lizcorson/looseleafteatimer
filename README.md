@@ -7,7 +7,7 @@ Original repository: https://github.com/lluisgl7/tea-timer
 
 ## Status
 
-I've put together all the relevant parts on the breadboard. Everything seems to work. The next step will be working on the infuser lifter and getting the timing and speed of the DC motor correct.
+I've put together all the relevant parts on the breadboard. Everything seems to work. The next step will be working on the infuser lifter and getting the timing and speed of the DC motor correct. I've finally learned how to use a laser cutter so I was able to cut out the holder for the infuser.
 
 ## Parts
 
@@ -27,5 +27,6 @@ I've put together all the relevant parts on the breadboard. Everything seems to 
 ## Photos
 
 Video: https://twitter.com/Liz_Corson/status/684201854956376064
+![alt tag](https://github.com/lizcorson/looseleafteatimer/blob/master/photos/infuserholder.jpg)
 ![alt tag](https://github.com/lizcorson/looseleafteatimer/blob/master/photos/jan04-1.jpg)
 ![alt tag](https://github.com/lizcorson/looseleafteatimer/blob/master/photos/jan04-2.jpg)
